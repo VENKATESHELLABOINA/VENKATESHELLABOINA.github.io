@@ -72,12 +72,13 @@
             }
         </style>
     </head>
-    <body>
-        <div id="wrapper">
+    <body bgcolor="black">
+        <div id="wrapper" style"font-color:white;">
             <h1>Venkatesh</h1>
             <h2>CODE IN &amp; CODE OUT&nbsp;</h2>
             <p><a href="https://twitter.com/Venkatesh_Virat" target="_blank">Twitter</a></p>
             <p><a href="https://www.facebook.com/venkateshyadav.ellaboina" target="_blank">Facebook</a></p>
+            
         </div>
         <canvas></canvas>
         <script>
