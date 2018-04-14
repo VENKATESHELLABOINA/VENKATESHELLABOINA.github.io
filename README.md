@@ -73,7 +73,7 @@
         </style>
     </head>
     <body bgcolor="black">
-        <div id="wrapper" style"font-color:white;">
+        <div id="wrapper" style="font-color:white;">
             <h1>Venkatesh</h1>
             <h2>CODE IN &amp; CODE OUT&nbsp;</h2>
             <p><a href="https://twitter.com/Venkatesh_Virat" target="_blank">Twitter</a></p>
